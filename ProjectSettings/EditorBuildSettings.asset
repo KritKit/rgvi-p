@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Beforeplay.unity
+    guid: 44a001b7ba3bdea4895685ceb60e2a5a
+  - enabled: 1
+    path: Assets/Scenes/tutorial/tt1.unity
+    guid: 61a3302ba8185694e8d855488bf3a777
+  - enabled: 1
+    path: Assets/Scenes/tutorial/rhythm/rtmtt_1.unity
+    guid: 07f319b2312c46a489219a60ffbb102e
+  - enabled: 1
+    path: Assets/Scenes/tutorial/rhythm/rtmtt_2.unity
+    guid: 24fab5df6bfdea543a6daaea4b8d1d27
+  - enabled: 1
+    path: Assets/Scenes/tutorial/rhythm/rtmtt_3.unity
+    guid: b493523ae970dc845b37313adf61fde3
+  - enabled: 1
+    path: Assets/Scenes/tutorial/rhythm/rtmtt_4.unity
+    guid: 85fe04a3a822fca4898495d1bd14705e
+  - enabled: 1
+    path: Assets/Scenes/tutorial/train/tt_train1.unity
+    guid: a77bf809dd06cc3428d359e52f91fecb
+  - enabled: 1
+    path: Assets/Scenes/tutorial/train/tt_train2.unity
+    guid: 970b49930d34bf24d9ca3cae1151b998
+  - enabled: 1
+    path: Assets/Scenes/tutorial/train/tt_train3.unity
+    guid: 55a3af4a6aa45594597cc937d48539ff
+  - enabled: 1
+    path: Assets/Scenes/tutorial/train/tt_train4.unity
+    guid: 66287991e3fe388429776b2a480c00bf
+  - enabled: 1
+    path: Assets/Scenes/tutorial/train/tt_train5.unity
+    guid: 063794da62be09445ae4ccbc18a7c145
+  - enabled: 1
+    path: Assets/Scenes/tutorial/train/tt_train6.unity
+    guid: c7bba60e632107846af3a27070b539ea
+  - enabled: 1
+    path: Assets/Scenes/tutorial/train/tt_train7.unity
+    guid: b49886b9d11567149ae3319ef31b9a10
+  - enabled: 1
+    path: Assets/Scenes/tutorial/train/tt_train8.unity
+    guid: 9edff8db37510d649ab21f9626226804
+  - enabled: 1
+    path: Assets/Scenes/tutorial/explicit/tt_exp1.unity
+    guid: 0b37e0f5f0bc05347a6c9349d5302f76
+  - enabled: 1
+    path: Assets/Scenes/tutorial/explicit/tt_exp2.unity
+    guid: 192750f0ee4e1f643b9464190c242856
+  - enabled: 1
+    path: Assets/Scenes/tutorial/explicit/tt_exp3.unity
+    guid: dad060f2f21c4ce458b6cbf80352f091
+  - enabled: 1
+    path: Assets/Scenes/tutorial/explicit/tt_exp4.unity
+    guid: 37787b3c9530f5a4f9516274b3fd639f
+  - enabled: 1
+    path: Assets/Scenes/tutorial/explicit/tt_exp5.unity
+    guid: 2c1c35c8954e1234297be6386b3b200b
+  - enabled: 1
+    path: Assets/Scenes/tutorial/explicit/tt_exp6.unity
+    guid: 9f91bd2f302657040bb84018bcf1e231
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6f6b7d8daec06c54e8413df28da1d89d
+  - enabled: 1
+    path: Assets/Scenes/tr1_1.unity
+    guid: c3297f9b03371d64aa7daf19f3709692
+  - enabled: 1
+    path: Assets/Scenes/tr1_2.unity
+    guid: 72f12b9029a668d409798feb96e03c08
+  - enabled: 1
+    path: Assets/Scenes/tr1_ex.unity
+    guid: 200070024c52e194fa412d1968a37a98
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm1_e.unity
+    guid: ae58467f0976c4245ba0a4988e0025a4
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm2_e.unity
+    guid: ace9c429e8d524140a39016fc79e347e
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm3_e.unity
+    guid: 3a57cde826ef12a409f1ce2154b9b7dd
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm4_e.unity
+    guid: 4d3ecf4f89e1b8d459d1e4334695248c
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm5_e.unity
+    guid: 86c230a27d0675e45843bfd86b2afbe5
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm6_e.unity
+    guid: 282fdaa5d720f2b42b594d10d9a7aeb4
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm7_e.unity
+    guid: f4e6fd18d43e20b4e82044c5d1072b14
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm8_e.unity
+    guid: 4eae55984e8d4184781a54c798f62b14
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm9_e.unity
+    guid: ee7c55d5fcc136442969abe404209c36
+  - enabled: 1
+    path: Assets/Scenes/rhythm/easy/rtm10_e.unity
+    guid: c487b7e64c5117349b0d8d2313a7aa64
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm1_n.unity
+    guid: 9a24e33330244ec4f809ec313b628729
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm2_n.unity
+    guid: 9af531ab8facf174d93cc70a4c517b23
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm3_n.unity
+    guid: 48a9f249ac8fd1144b3dfc1647ff572c
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm4_n.unity
+    guid: f709f50bb689fe64dbb255217942fcd6
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm5_n.unity
+    guid: e04d4e50924017642a9a02854ba8d014
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm6_n.unity
+    guid: fa165b42321e59348b70d0d28aba2a49
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm7_n.unity
+    guid: 0c8d7e151b4bfb843b3d06a9bcffde22
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm8_n.unity
+    guid: 93f654ea844da604f922646c89496526
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm9_n.unity
+    guid: 9a4da2582d811384e83dee97d6efa3d4
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm10_n.unity
+    guid: 6b8e3ed31b430e04782b363662875384
+  - enabled: 1
+    path: Assets/Scenes/rhythm/normal/rtm11_n.unity
+    guid: add88f2658ac07b4ca9c9483e7e9f2c6
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm1_h.unity
+    guid: 47230bc9fef773149bff4ae1d991c50c
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm2_h.unity
+    guid: 7075a8549329bcc4892da4c825f24bd1
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm3_h.unity
+    guid: b43ec67c94ab44746b5dd6ee0c8e92d3
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm4_h.unity
+    guid: eaf0ecc763d5a244aad358762bffa9ea
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm5_h.unity
+    guid: 58f88e298b672734c8c99a3142296ef7
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm6_h.unity
+    guid: 36d003db652ce5e408700a5ed31be32a
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm7_h.unity
+    guid: 96e11d0c5e755dc40a62c4ad93dffdd6
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm8_h.unity
+    guid: b617565a0960c7d40971fd44b13f03f5
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm9_h.unity
+    guid: 1a38e0a0ed09f1b4dacacb92a8b9d085
+  - enabled: 1
+    path: Assets/Scenes/rhythm/hard/rtm10_h.unity
+    guid: f2947cdaf0a9e014b971bd8e1033804e
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_1_e.unity
+    guid: e532d5464c1636d46a0466b2cd967f58
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_2_e.unity
+    guid: 2608101f258bc1943b507e2639774285
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_3_e.unity
+    guid: cb044815400a4a649a22d32a2ce499da
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_4_e.unity
+    guid: 4be2f1e2191e3a94e83c0af220792b71
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_5_e.unity
+    guid: be65b880507b38341bde85defa247fa7
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_6_e.unity
+    guid: 27ebea61546a5f44d82a4a5f7559fbe8
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_7_e.unity
+    guid: 415f7de793cbfd7439fafa28cff0535d
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_8_e.unity
+    guid: 09f8ae9368be0ca4394582deeff996d1
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_9_e.unity
+    guid: eb9a926bc11928c4cb9649b32e50dd9f
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_10_e.unity
+    guid: ae5e6da92543537488a6d4eb50e5be55
+  - enabled: 1
+    path: Assets/Scenes/explicit/easy/ep1_11_e.unity
+    guid: 5e1696028be3feb42943adeee5614b0a
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_1_n.unity
+    guid: ae09756ff09d0574dbe18cbae01f525d
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_2_n.unity
+    guid: 33673249d84098c4585e324742c1015b
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_3_n.unity
+    guid: 0d1ba31aa522417488eea5e14a693f47
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_4_n.unity
+    guid: ed298efbb7cb1014583e69ab73f785d8
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_5_n.unity
+    guid: 7f33d9a061243634e8f368f39b269029
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_6_n.unity
+    guid: c2952bc9102b68a469f8bb082c1b6d0b
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_7_n.unity
+    guid: b1d49d19f33307647a8ceb9b1ce75935
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_8_n.unity
+    guid: 570068775fbd80141b280eba625d6724
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_9_n.unity
+    guid: 4562019bf5f127c40ba56273cecd6a37
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_10_n.unity
+    guid: 336d264e998135d49bc53d09c9bea02c
+  - enabled: 1
+    path: Assets/Scenes/explicit/normal/ep1_11_n.unity
+    guid: 5066471e102375b4da2e796c86a1978e
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_1_h.unity
+    guid: 5a2a5d917d4df274896b90120fc19b56
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_2_h.unity
+    guid: 004329ef2b586644c9a5b76e90e4858f
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_3_h.unity
+    guid: ccb1a64d75fbfd9478ab4bf3ba40a047
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_4_h.unity
+    guid: 771bae41bebb02148a25df79cf5af3e1
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_5_h.unity
+    guid: 1f8e0e6c263783e4687b309010a17f00
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_6_h.unity
+    guid: 268ea97d85f576b40b8ac50de533192f
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_7_h.unity
+    guid: 5cea8b596031dfe4ab061a58bb2cbac1
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_8_h.unity
+    guid: beec01faebd4d8b4aab0be3c93b37f6e
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_9_h.unity
+    guid: fe44b02171ad5a44e9eea7cc8ee283ce
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_10_h.unity
+    guid: 987c80233efa146418b2ba03666055e9
+  - enabled: 1
+    path: Assets/Scenes/explicit/hard/ep1_11_h.unity
+    guid: aa9ea0c96a697834095e4cc3afc32982
+  - enabled: 1
+    path: Assets/Scenes/maze/Tutor.unity
+    guid: b7cd615147da36b499adc1c734ead663
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage1.unity
+    guid: 899fcc65fa0859d4b8703987fdc51bd9
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage2.unity
+    guid: e57dff05cb310de4c828cbfc114cd2ea
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage3.unity
+    guid: 55973072310026040b72017bfdb773d2
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage4.unity
+    guid: f19c1437f25504343a3db3f96038717c
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage5.unity
+    guid: 974442bb8c32f684c91fcf19fe844869
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage6.unity
+    guid: bb300a1c5c814c34f99d67097e156843
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage7.unity
+    guid: 18ff1d8365df84943a876086c998a900
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage8.unity
+    guid: 8e84a2d52942c304ca66a4d4045bee08
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage9.unity
+    guid: 774ad1a1fb43ba542843d9086d9eeb03
+  - enabled: 1
+    path: Assets/Scenes/maze/Stage10.unity
+    guid: ac56ea2859541404798899e277ee70d5
+  - enabled: 1
+    path: Assets/Scenes/maze/finalscore.unity
+    guid: 69b99a0c83cf5234089cdafa7252d6d8
+  - enabled: 1
+    path: Assets/Scenes/qquit.unity
+    guid: 8b2d944bd78e9c74db4267d1ab7b3f4a
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d02adbd6ff810d741ba7c753baa6c13e, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: ad9c3f543a1ef2742b2cc1cd9d7da7bb, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 539b8962d6d053249ac31c89c6c858bd, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 4e884a344dfd2d8448928671ee24b4e8, type: 2}
